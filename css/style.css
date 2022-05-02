@@ -1,0 +1,19 @@
+.container{
+    height: 400px;
+}
+.col{
+    align-items: center;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: white;
+}
+.topspace{
+    margin-top:75px;
+}
+Div.row{
+    width: 100%;
+}
+
